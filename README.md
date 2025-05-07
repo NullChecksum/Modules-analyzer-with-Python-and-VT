@@ -6,7 +6,7 @@ This project provides a complete system for analyzing modules (DLL, EXE) current
 
 ##  Project Content
 
-- `Analisi_DLL.ps1`: PowerShell script for local analysis of running DLL/EXE
+- `DLL.ps1`: PowerShell script for local analysis of running DLL/EXE
 - `Analyze_dlls_vt_filtered.py`: Python script that filters suspicious modules and queries VirusTotal
 
 ---
