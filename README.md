@@ -91,6 +91,7 @@ Example Ps1 output:
 
 Example python output:
 
-![image](https://github.com/user-attachments/assets/a7a734a0-a212-4e06-9a51-e29ff425ab3d)
+![image](https://github.com/user-attachments/assets/a9783770-e4f1-4d90-8490-7f03ee712a35)
+
 
 
