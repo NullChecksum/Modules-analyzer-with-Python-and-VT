@@ -86,10 +86,17 @@ pip install requests
 ```
 Example Ps1 output:
 
+(Administrator powershell session)
+powershell -ep bypass
+.\DLL.ps1 
+
 ![{015DB8BE-5CB6-4599-B3C3-4981DD52CC71}](https://github.com/user-attachments/assets/d183a711-764d-43e1-9502-b21942634131)
 
 
 Example python output:
+
+
+python3 Analyze_dlls_vt_filtered.py  `PCNAME_YYYYMMDD_HHMMSS_DllList.json`
 
 ![image](https://github.com/user-attachments/assets/a9783770-e4f1-4d90-8490-7f03ee712a35)
 
