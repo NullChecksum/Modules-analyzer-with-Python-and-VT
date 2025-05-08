@@ -25,7 +25,7 @@ This tool allows you to:
 
 ##  How It Works
 
-### `Analisi_DLL.ps1` (PowerShell)
+### `DLL.ps1` (PowerShell)
 
 **Main Features:**
 
